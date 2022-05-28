@@ -1,5 +1,7 @@
 # Board App
 
+### Acessar: [Board](https://board-tasks-app.herokuapp.com/)
+
 ## Sumário
 - **[Sobre](#sobre)**
 - **[Pré-requisitos](#pré-requisitos)**
