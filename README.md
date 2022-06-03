@@ -29,3 +29,12 @@ Antes de começar, você precisa ter instalado em sua máquina as seguintes ferr
 
 ### Execute o servidor
 `$ npm run start`
+
+## Tecnologias
+As seguintes tecnologias foram utilizadas para desenvolver este projeto:
+- [Next](https://nextjs.org/)
+    - [Next-auth](https://next-auth.js.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Sass](https://sass-lang.com/)
+- [Typescript](https://www.typescriptlang.org/)
