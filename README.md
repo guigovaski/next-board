@@ -17,7 +17,7 @@
 Feito com NextJS. Um projeto de gestão de tarefas, onde foi utilizado a lib NextAuth e o GitHub para autenticação de usuários. O serviço back-end utilizado foi o banco de dados Firestore. Por padrão, todos os usuários autenticados possuem as funcionalidades de adicionar e excluir tarefas. Fiz a integração com a API do PayPal para pagamentos, e assim, usuários que fizerem uma doação independente do valor terão acesso à funcionalidades exclusivas (visualizar e editar tarefas) além da foto de perfil do GitHub ficar visível na tela inicial.
 
 ## Pré-requisitos
-Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com). Além disso, é interessante que tenha instalado um editor de código como o [VSCode](htts://code.visualstudio.com/).
+Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com). Além disso, é interessante que tenha instalado um editor de código como o [VSCode](https://code.visualstudio.com/).
 
 ## Instalação
 
